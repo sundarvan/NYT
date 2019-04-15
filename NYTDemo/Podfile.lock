@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cosmos (17.0.0)
+  - KeyboardFrameChangeListener (1.0.5)
+  - lottie-ios (3.0.4)
+  - ReachabilitySwift (4.3.1)
+  - ScrollViewKeyboardAvoider (1.0.6)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftIconFont (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 17.0)
+  - KeyboardFrameChangeListener (~> 1.0)
+  - lottie-ios
+  - ReachabilitySwift
+  - ScrollViewKeyboardAvoider (~> 1.0)
+  - SDWebImage (~> 4.0)
+  - SwiftIconFont
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cosmos
+    - KeyboardFrameChangeListener
+    - lottie-ios
+    - ReachabilitySwift
+    - ScrollViewKeyboardAvoider
+    - SDWebImage
+    - SwiftIconFont
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cosmos: 309e489f21ffc91a1eeecfebef7f817cd2fcfba6
+  KeyboardFrameChangeListener: 5e7d2522781d69e0b98064bce1463de30331d283
+  lottie-ios: 55a2de40418f8de2b155efaba4d4d1a025a5c570
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  ScrollViewKeyboardAvoider: dd70da9df7095149af716b21df052128bdf585a5
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftIconFont: 2ba18554a77c44948dc35b561b344e3c23834a84
+
+PODFILE CHECKSUM: 859a2f7ecaf5a9aad399805b4f57842262fb0401
+
+COCOAPODS: 1.6.1
